@@ -1,0 +1,61 @@
+.WalletBody {
+width: 80%;
+height: 380px;
+margin: 15px auto;
+background: #f0f2f5;
+border-radius: 10px;
+}
+
+  .Blank {
+  height: 380px;
+  margin: 20px 0;
+  padding: 0px;
+  border-radius: 11px;
+  background: #fff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  }
+  .post-Wallet {
+    height: 100px;
+    margin: 0 ;
+    padding: 14px 11px;
+    border-radius: 11px 11px 0px 0px;
+    background: rgb(160, 54, 54);
+    align-items: center;
+    background: linear-gradient(120deg, #ff891b 0%, #ff511c 100%);
+}
+.Logo__Wallet {
+    width: 100px;
+    height: auto;
+    padding-left: 50px;
+
+}
+
+  .create__first-input {
+    width: 90%;
+    float: right;
+  }
+  .create__first-inputs {
+    width: 80%;
+    margin: 20px;
+    padding: 15px 20px;
+    border: none;
+    background: #f0f2f5;
+    border-radius: 30px;
+    outline: none;
+  }
+  .show__options {
+    padding: 20px;
+    margin: 2px 0px;
+    border-radius: 4px;
+    cursor: pointer;
+    background: linear-gradient(120deg, #f5ba3b 0%, #f7ca68 100%);
+  }
+  .options {
+    display: flex;
+    align-items: center;
+  }
+  .options-text {
+    display: inline-block;
+    margin-left: 18px;
+    color: #f0f2f5;
+  }

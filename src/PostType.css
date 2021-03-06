@@ -1,0 +1,64 @@
+.show__post-Auction {
+    margin: 0 ;
+    padding: 14px 11px;
+    border-radius: 11px 11px 0px 0px;
+    background: rgb(160, 54, 54);
+    background: linear-gradient(120deg, #292929 0%, #808080 100%);
+  }
+  .show__post-SOS {
+    margin: 0 ;
+    padding: 14px 11px;
+    border-radius: 11px 11px 0px 0px;
+    background: rgb(160, 54, 54);
+    background: linear-gradient(120deg, #292929 0%, #808080 100%);
+  }
+  .show__post-Live {
+    margin: 0 ;
+    padding: 14px 11px;
+    border-radius: 11px 11px 0px 0px;
+    background: rgb(160, 54, 54);
+    background: linear-gradient(120deg, #292929 0%, #808080 100%);
+  }
+
+  .show__post-Bets {
+    margin: 0 ;
+    padding: 14px 11px;
+    border-radius: 11px 11px 0px 0px;
+    background: rgb(160, 54, 54);
+    background: linear-gradient(120deg, #F24665 0%, #C54E10 100%);
+  }
+  .show__post-Pawns {
+    margin: 0 ;
+    padding: 14px 11px;
+    border-radius: 11px 11px 0px 0px;
+    background: rgb(160, 54, 54);
+    background: linear-gradient(120deg, #3700B3 0%, #985EFF 100%);
+  }
+  .show__post-Casual {
+    margin: 0 ;
+    padding: 14px 11px;
+    border-radius: 11px 11px 0px 0px;
+    background: rgb(160, 54, 54);
+    background: linear-gradient(120deg, #ffff 0%, #F2EFF9 100%);
+  }
+  .show__post-Jobs {
+    margin: 0 ;
+    padding: 14px 11px;
+    border-radius: 11px 11px 0px 0px;
+    background: rgb(160, 54, 54);
+    background: linear-gradient(120deg, #3700B3 0%, #985EFF 100%);
+  }
+  .show__post-Fundraiser {
+    margin: 0 ;
+    padding: 14px 11px;
+    border-radius: 11px 11px 0px 0px;
+    background: rgb(160, 54, 54);
+    background: linear-gradient(120deg, #F9F93E 0%, #F1E42E 100%);
+  }
+  .show__post-MeetUps {
+    margin: 0 ;
+    padding: 14px 11px;
+    border-radius: 11px 11px 0px 0px;
+    background: rgb(160, 54, 54);
+    background: linear-gradient(120deg, #F24665 0%, #C54E10 100%);
+  }

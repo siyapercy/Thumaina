@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_34" data-name="Ellipse 34" cx="27.5" cy="27.5" r="27.5"/>
+    </clipPath>
+  </defs>
+  <g id="Thumaina_logo_icons-04" data-name="Thumaina logo icons-04" transform="translate(-20.922)">
+    <g id="Group_368" data-name="Group 368" transform="translate(20.922 0)" clip-path="url(#clip-path)">
+      <circle id="Ellipse_33" data-name="Ellipse 33" cx="26.558" cy="26.558" r="26.558" transform="translate(0.672 1.401)" fill="#ff961c"/>
+    </g>
+    <g id="Group_369" data-name="Group 369" transform="translate(20.922 0)" clip-path="url(#clip-path)">
+      <path id="Path_37" data-name="Path 37" d="M69.162,123.1c0,1.284,1.007,2.81,3.995,2.81H92.3v13.749c0,2.408.5,7.727,6.433,7.727h7.315c4.908,0,7.834-2.789,7.834-7.125V129.528c0-3.031-2.054-3.613-2.7-3.613s-4.358-.18-4.358,3.613v10.136a3.273,3.273,0,0,1-3.424,2.408,3.4,3.4,0,0,1-3.632-3.011V125.915s.644-5.62-6.122-5.62H73.831C70.8,120.295,69.162,121.52,69.162,123.1Z" transform="translate(-63.313 -105.709)" fill="#fff"/>
+    </g>
+    <g id="Group_370" data-name="Group 370" transform="translate(20.922 0)" clip-path="url(#clip-path)">
+      <path id="Path_38" data-name="Path 38" d="M146.136,209.98c0,1.753-.926,3.175-2.068,3.175h-1.551c-1.142,0-2.068-1.421-2.068-3.175V181.086c0-1.753.926-3.175,2.068-3.175h1.551c1.142,0,2.068,1.421,2.068,3.175Z" transform="translate(-125.956 -156.338)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
